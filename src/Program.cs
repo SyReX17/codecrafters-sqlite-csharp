@@ -1,6 +1,5 @@
 using static System.Buffers.Binary.BinaryPrimitives;
 
-// Parse arguments
 var (path, command) = args.Length switch
 {
     0 => throw new InvalidOperationException("Missing <database path> and <command>"),
