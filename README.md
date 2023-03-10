@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/sqlite.png)
+[![progress-banner](https://app.codecrafters.io/progress/sqlite/dd937aa3-4937-49e9-9489-3aa9c53980ad)](https://app.codecrafters.io/users/SyReX17)
 
 This is a starting point for C# solutions to the
 ["Build Your Own SQLite" Challenge](https://codecrafters.io/challenges/sqlite).
